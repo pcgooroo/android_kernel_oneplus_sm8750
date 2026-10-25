@@ -1,4 +1,4 @@
 [submodule "KernelSU-Next"]
 	path = KernelSU-Next
-	url = https://github.com/pershoot/KernelSU-Next
-	branch = dev-susfs
+	url = https://github.com/pcgooroo/KernelSU-Next
+	branch = dev-susfs-20261019
